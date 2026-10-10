@@ -7,7 +7,9 @@
 
 <a href="https://www.linkedin.com/in/arian-rahman-108831230/">LinkedIn</a> ·
 <a href="https://www.linkedin.com/in/arianrahman">Portfolio </a> ·
+<a href="https://medium.com/@arianrahman431">Medium </a> ·
 <a href="https://huggingface.co/spaces/soothsayerzzz">Hugging Face</a> ·
+
 
 Dhaka, Bangladesh 🇧🇩
 
