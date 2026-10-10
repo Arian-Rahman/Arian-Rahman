@@ -13,7 +13,7 @@ Dhaka, Bangladesh 🇧🇩
 
 I build AI systems that help people move from **messy business data → useful decisions**.
 
-My current work combines conversational agents, multi-step workflows, self-correcting SQL, sandboxed analysis, and demand-forecasting services on Google Cloud. I work across architecture, implementation, integration, and client-facing requirements discovery.
+My current work combines conversational agents through  multi-step Agentic workflows, self-correcting SQL, automated sandboxed analysis using agents, and demand-forecasting services on Google Cloud. I work across architecture, implementation, integration, and client-facing requirements discovery.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI-6E56CF?style=for-the-badge" alt="Agentic AI" />
